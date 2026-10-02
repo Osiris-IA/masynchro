@@ -20,6 +20,9 @@ web-build/
 .env.staging
 .env.production
 
+# MCP config (contient des tokens)
+.mcp.json
+
 # IDE
 .vscode/
 .idea/
