@@ -1,0 +1,112 @@
+<mxfile>
+  <diagram name="Briefing" id="briefing">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="phone" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#F5F5F5;strokeColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="390" height="844" as="geometry"/>
+        </mxCell>
+        <mxCell id="statusbar" value="7:15" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;fontColor=#333;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="header" value="Briefing matinal" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#1A1A2E;" vertex="1" parent="1">
+          <mxGeometry x="130" y="65" width="250" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="subheader" value="Vendredi 3 octobre 2026" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontColor=#888;" vertex="1" parent="1">
+          <mxGeometry x="130" y="95" width="250" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="voiceCard" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#6C63FF;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="130" width="340" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="voiceWave" value="🔊   ▁ ▂ ▅ ▇ ▅ ▃ ▁ ▂ ▆ ▇ ▅ ▂ ▁" style="text;html=1;align=center;verticalAlign=middle;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="95" y="140" width="320" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="voiceText" value="&quot;Bonjour Iris ! Voici ton briefing de ce matin...&quot;" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#CCBBFF;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="170" width="320" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="weatherSection" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#E0E0E0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="230" width="340" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="weatherTitle" value="🌤️ Météo" style="text;html=1;align=left;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#1A1A2E;" vertex="1" parent="1">
+          <mxGeometry x="105" y="240" width="150" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="weatherNow" value="&lt;font style='font-size:32px'&gt;&lt;b&gt;14°&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Partiellement nuageux" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#333;" vertex="1" parent="1">
+          <mxGeometry x="95" y="268" width="100" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="sep1" value="" style="line;strokeColor=#E0E0E0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="275" width="1" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="weatherMorning" value="&lt;b&gt;Matin&lt;/b&gt;&lt;br&gt;🌥️ 12°" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="65" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="weatherAfter" value="&lt;b&gt;Après-midi&lt;/b&gt;&lt;br&gt;🌧️ 16°" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="weatherEvening" value="&lt;b&gt;Soir&lt;/b&gt;&lt;br&gt;☁️ 13°" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#666;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="55" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="transportSection" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#E0E0E0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="380" width="340" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="transportTitle" value="🚇 Transports" style="text;html=1;align=left;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#1A1A2E;" vertex="1" parent="1">
+          <mxGeometry x="105" y="390" width="150" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="rerA" value="RER A" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#E3051B;rounded=1;arcSize=30;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="425" width="60" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="rerAStatus" value="✅ Trafic normal" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#4CAF50;" vertex="1" parent="1">
+          <mxGeometry x="175" y="425" width="140" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="rerANext" value="Prochain : &lt;b&gt;7h22&lt;/b&gt; · &lt;b&gt;7h29&lt;/b&gt; · 7h37" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#888;" vertex="1" parent="1">
+          <mxGeometry x="105" y="455" width="250" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="m1" value="M 1" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#FFCD00;rounded=1;arcSize=30;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="485" width="60" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="m1Status" value="⚠️ Ralentissements" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#FF9800;" vertex="1" parent="1">
+          <mxGeometry x="175" y="485" width="200" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="m1Detail" value="Travaux entre Bastille et Nation · +5 min" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#888;" vertex="1" parent="1">
+          <mxGeometry x="105" y="513" width="300" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="agendaSection" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#E0E0E0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="550" width="340" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="agendaTitle" value="📅 Agenda" style="text;html=1;align=left;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#1A1A2E;" vertex="1" parent="1">
+          <mxGeometry x="105" y="560" width="150" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="event1" value="" style="rounded=1;fillColor=#E8EAF6;strokeColor=none;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="593" width="310" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="event1Text" value="&lt;font color='#6C63FF'&gt;&lt;b&gt;9h00&lt;/b&gt;&lt;/font&gt; · Stand-up équipe Data" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontColor=#333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="593" width="280" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="event2" value="" style="rounded=1;fillColor=#FFF3E0;strokeColor=none;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="310" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="event2Text" value="&lt;font color='#FF9800'&gt;&lt;b&gt;14h00&lt;/b&gt;&lt;/font&gt; · Soutenance projet alternance" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontColor=#333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="290" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="tipCard" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFF8E1;strokeColor=#FFE082;" vertex="1" parent="1">
+          <mxGeometry x="85" y="690" width="340" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="tipText" value="💡 Pars 5 min plus tôt à cause des ralentissements sur la ligne 1." style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontColor=#666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="695" width="310" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="navbar" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="776" width="390" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="navHome" value="🏠&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;&lt;b&gt;Accueil&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;fontColor=#6C63FF;" vertex="1" parent="1">
+          <mxGeometry x="105" y="786" width="70" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="navAlarm" value="⏰&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;Alarme&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;fontColor=#999;" vertex="1" parent="1">
+          <mxGeometry x="220" y="786" width="70" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="navProfile" value="👤&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;Profil&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;fontColor=#999;" vertex="1" parent="1">
+          <mxGeometry x="335" y="786" width="70" height="55" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

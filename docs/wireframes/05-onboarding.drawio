@@ -1,0 +1,106 @@
+<mxfile>
+  <diagram name="Onboarding" id="onboarding">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="phone" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#F5F5F5;strokeColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="390" height="844" as="geometry"/>
+        </mxCell>
+        <mxCell id="statusbar" value="9:41" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;fontColor=#333;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="logoCircle" value="" style="ellipse;fillColor=#6C63FF;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="logoText" value="M" style="text;html=1;align=center;verticalAlign=middle;fontSize=42;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="112" width="70" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="welcome" value="Bienvenue sur&lt;br&gt;&lt;font style='font-size:28px'&gt;&lt;b&gt;MaSynchro&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#1A1A2E;" vertex="1" parent="1">
+          <mxGeometry x="105" y="210" width="300" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="subtitle" value="Ton compagnon matinal intelligent.&lt;br&gt;Configurons ensemble ton premier matin." style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontColor=#888;" vertex="1" parent="1">
+          <mxGeometry x="105" y="280" width="300" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="stepIndicator" value="Étape 1 sur 3" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#6C63FF;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="345" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="progressBg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#E0E0E0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="370" width="240" height="6" as="geometry"/>
+        </mxCell>
+        <mxCell id="progressFill" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#6C63FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="370" width="80" height="6" as="geometry"/>
+        </mxCell>
+        <mxCell id="step1Title" value="À quelle heure tu te lèves ?" style="text;html=1;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;fontColor=#1A1A2E;" vertex="1" parent="1">
+          <mxGeometry x="100" y="405" width="310" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pickerBg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#E0E0E0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="455" width="280" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="hourUp" value="▲" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="165" y="465" width="40" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="hourPrev" value="06" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="155" y="490" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="hourHighlight" value="" style="rounded=1;fillColor=#F0EEFF;strokeColor=#6C63FF;strokeWidth=2;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="522" width="270" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="hourCurrent" value="07" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fontColor=#6C63FF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="524" width="60" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="colon" value=":" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fontColor=#6C63FF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="524" width="30" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="minCurrent" value="15" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fontColor=#6C63FF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="524" width="60" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="hourNext" value="08" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="155" y="565" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="hourDown" value="▼" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="165" y="590" width="40" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="minUp" value="▲" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="285" y="465" width="40" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="minPrev" value="10" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="275" y="490" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="minNext" value="20" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="275" y="565" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="minDown" value="▼" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#CCC;" vertex="1" parent="1">
+          <mxGeometry x="285" y="590" width="40" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="daysLabel" value="Jours de réveil :" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#888;" vertex="1" parent="1">
+          <mxGeometry x="100" y="640" width="150" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayL" value="L" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#6C63FF;rounded=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayM" value="M" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#6C63FF;rounded=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayMe" value="M" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#6C63FF;rounded=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayJ" value="J" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#6C63FF;rounded=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayV" value="V" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#FFFFFF;fillColor=#6C63FF;rounded=1;arcSize=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayS" value="S" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontColor=#CCC;fillColor=#F5F5F5;rounded=1;arcSize=50;strokeColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="dayD" value="D" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontColor=#CCC;fillColor=#F5F5F5;rounded=1;arcSize=50;strokeColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="670" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="nextBtn" value="Suivant →" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#6C63FF;strokeColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="740" width="340" height="52" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
